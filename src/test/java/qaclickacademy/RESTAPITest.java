@@ -7,7 +7,7 @@ public class RESTAPITest {
 	@Test
 	public void postJira()
 	{ //comment added
-		System.out.println("postJira");//added
+		System.out.println("postJira");//added - updated check for push
 	}
 	
 	@Test
